@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/felipe-sant/FRONT-LojaSimples.git
+[submodule "back"]
+	path = back
+	url = https://github.com/felipe-sant/BACK-LojaVirtual.git
